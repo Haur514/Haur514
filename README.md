@@ -1,6 +1,3 @@
-<a href="https://github.com/Haur514">
-  <img align="center" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haur514&theme=dracula" />
-</a>
 
 
 <a href="https://github.com/Haur514">

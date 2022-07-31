@@ -1,5 +1,5 @@
 <a href="https://github.com/Haur514">
-  <img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haur514&theme=dracula" />
+  <img align="center" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haur514&theme=dracula" />
 </a>
 
 
